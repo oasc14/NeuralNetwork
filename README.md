@@ -1,3 +1,3 @@
 # NeuralNetwork
-Esto muestra un ejemplo de Redes Neuronales así como una plantilla para editar.
+This shows an example of Neural Network as well as a data classification template.
 The neural network is implemented to know the possible clients that can leave a bank.
